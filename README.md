@@ -1,6 +1,7 @@
 👋 Olá, eu sou o Cauã Moura
 
 Desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas 
+
 📍 Campinas, SP | Trabalhando na Tornieri Usinagem Mecânica
 
 👨‍💻 Sobre Mim Eu sou estudante no Senai Roberto Mange, cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com ferramentas como Github, Trello e desenvolvimento web, e estou sempre em busca de novos conhecimentos na área de tecnologia. Recentemente, participei de uma atividade de extensão onde ministrei uma aula geral sobre HTML, CSS e JavaScript em uma escola pública.
