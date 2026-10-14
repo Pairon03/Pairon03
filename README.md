@@ -62,6 +62,7 @@ Gosto de aprender na prática: desenvolvo projetos próprios para evoluir consta
 
 **Outros projetos**
 
+- **EcoMinds:** agricultura inteligente com IoT, sensores, CLPs e inversores para monitorar e automatizar sistemas agrícolas. App em Flutter com dados na AWS.
 - **Sistema de Gestão de Bibliotecas:** modelagem orientada a objetos com herança e associação.
 - **Automação de esteira transportadora:** separação de peças por tamanho com CLP em Ladder.
 - **Medição tridimensional no Geopak Win:** rotinas de controle de qualidade dimensional.
