@@ -47,7 +47,7 @@ Gosto de aprender na prática: desenvolvo projetos próprios para evoluir consta
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-**Estudando agora:** Docker · Engenharia de prompt · Inteligência Artificial
+**Estudando agora:** Engenharia de prompt · Inteligência Artificial
 
 **Indústria:** CLP/Ladder (Mastertool) · Metrologia tridimensional (Geopak Win)
 
