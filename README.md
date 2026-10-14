@@ -1,7 +1,7 @@
 <h1 align="center">Cauã Victor de Moura</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Web · Front-end com Vue.js · Análise e Desenvolvimento de Sistemas</strong><br>
+  <strong>Desenvolvedor de Software · Análise de Dados · Formado em ADS</strong><br>
   Campinas, SP
 </p>
 
@@ -14,24 +14,29 @@
 
 ## Sobre
 
-Estudante de Análise e Desenvolvimento de Sistemas no **Senai Roberto Mange**, com foco em desenvolvimento web e criação de sites e landing pages. Trabalho com **Vue.js** no front-end e **Node.js** no back-end, e tenho experiência prática na indústria com automação (CLP/Ladder) e controle de qualidade dimensional. Atualmente trabalho na **MBBA**.
+Formado em **Análise e Desenvolvimento de Sistemas** pelo Senai Roberto Mange, estou iniciando minha trajetória profissional em tecnologia com foco em **desenvolvimento de software** e interesse em **análise de dados**. Atualmente trabalho na **MBBA**.
 
-Em um projeto de extensão, ministrei uma aula introdutória de HTML, CSS e JavaScript para alunos de uma escola pública.
+Gosto de aprender na prática: desenvolvo projetos próprios para evoluir constantemente e aprimorar minhas habilidades. Também tenho experiência na indústria com automação (CLP/Ladder) e controle de qualidade dimensional, e em um projeto de extensão ministrei uma aula introdutória de HTML, CSS e JavaScript para alunos de uma escola pública.
 
 ## Stack
 
-**Front-end**
+**Linguagens**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-**Back-end e dados**
+**Frameworks**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Banco de dados**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -39,9 +44,10 @@ Em um projeto de extensão, ministrei uma aula introdutória de HTML, CSS e Java
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-**Estudando agora:** Docker · Flutter (Dart)
+**Estudando agora:** Docker
 
 **Indústria:** CLP/Ladder (Mastertool) · Metrologia tridimensional (Geopak Win)
 
@@ -62,7 +68,7 @@ Em um projeto de extensão, ministrei uma aula introdutória de HTML, CSS e Java
 
 ## Contato
 
-Aberto a projetos de sites, landing pages e oportunidades em desenvolvimento web.
+Aberto a oportunidades em desenvolvimento de software e análise de dados.
 
 - LinkedIn: [linkedin.com/in/cauavmoura](https://www.linkedin.com/in/cauavmoura)
 - Email: [cauamoura09@gmail.com](mailto:cauamoura09@gmail.com)
