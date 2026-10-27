@@ -1,7 +1,7 @@
 <h1 align="center">Cauã Victor de Moura</h1>
 
 <p align="center">
-  <strong>Desenvolvedor de Software · Análise de Dados · Formado em ADS</strong><br>
+  <strong>Desenvolvedor Backend Júnior · Python · Django · Node.js · Formado em ADS</strong><br>
   Campinas, SP
 </p>
 
@@ -55,10 +55,10 @@ Gosto de aprender na prática: desenvolvo projetos próprios para evoluir consta
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [ponta-a-ponta-landing](https://github.com/Pairon03/ponta-a-ponta-landing) | Landing page institucional | Vue.js |
-| [AulasBackend](https://github.com/Pairon03/AulasBackend) | Estudos e exercícios de desenvolvimento back-end | JavaScript, Node.js |
-| [AulasBigData](https://github.com/Pairon03/AulasBigData) | Análise de dados em notebooks | Python, Jupyter |
-| [Somativa-DW](https://github.com/Pairon03/Somativa-DW) | Projeto avaliativo de Desenvolvimento Web | HTML, CSS |
+| [ClipFlow Studio](https://github.com/Pairon03/clipflow) | Automação de cortes de vídeo para redes sociais: transcrição, seleção de trechos com IA, legendas e processamento com FFmpeg (em desenvolvimento) | Python, FFmpeg, APIs de IA |
+| [AB Transportes](https://github.com/Pairon03/ABtransportes-landing) | Landing page para cliente real do setor de transportes · [ver site](https://abtransportes.vercel.app) | Vue.js, Vercel |
+| [Mangebook](https://github.com/Pairon03/Mangebook) | Biblioteca virtual full stack com autenticação, CRUD, API REST e upload de imagens | Vue.js, Node.js, Express, MongoDB, JWT |
+| [Chatbot](https://github.com/Pairon03/chatbot) | Chatbot que responde com base em documentos (RAG) | Python, LlamaIndex, ChromaDB, Groq |
 
 **Outros projetos**
 
